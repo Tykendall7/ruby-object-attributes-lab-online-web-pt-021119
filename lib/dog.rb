@@ -7,3 +7,6 @@ class dog
     @breed
   end
 end
+
+fido= dog.new
+
